@@ -1,4 +1,4 @@
-package sun;
+package sun.ru;
 
 public class SalesManager {
 

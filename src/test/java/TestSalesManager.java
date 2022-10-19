@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.*;
-import sun.SalesManager;
+import sun.ru.SalesManager;
 
 public class TestSalesManager {
     private SalesManager salesManager;
